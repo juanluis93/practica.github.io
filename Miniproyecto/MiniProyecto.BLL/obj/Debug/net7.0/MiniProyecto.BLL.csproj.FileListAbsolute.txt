@@ -1,0 +1,15 @@
+C:\Users\Juanjo\Desktop\Cajero\prueba\Miniproyecto\MiniProyecto.BLL\bin\Debug\net7.0\MiniProyecto.BLL.deps.json
+C:\Users\Juanjo\Desktop\Cajero\prueba\Miniproyecto\MiniProyecto.BLL\bin\Debug\net7.0\MiniProyecto.BLL.dll
+C:\Users\Juanjo\Desktop\Cajero\prueba\Miniproyecto\MiniProyecto.BLL\bin\Debug\net7.0\MiniProyecto.BLL.pdb
+C:\Users\Juanjo\Desktop\Cajero\prueba\Miniproyecto\MiniProyecto.BLL\bin\Debug\net7.0\MiniProyecto.DAL.dll
+C:\Users\Juanjo\Desktop\Cajero\prueba\Miniproyecto\MiniProyecto.BLL\bin\Debug\net7.0\MiniProyecto.DAL.pdb
+C:\Users\Juanjo\Desktop\Cajero\prueba\Miniproyecto\MiniProyecto.BLL\obj\Debug\net7.0\MiniProyecto.BLL.csproj.AssemblyReference.cache
+C:\Users\Juanjo\Desktop\Cajero\prueba\Miniproyecto\MiniProyecto.BLL\obj\Debug\net7.0\MiniProyecto.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juanjo\Desktop\Cajero\prueba\Miniproyecto\MiniProyecto.BLL\obj\Debug\net7.0\MiniProyecto.BLL.AssemblyInfoInputs.cache
+C:\Users\Juanjo\Desktop\Cajero\prueba\Miniproyecto\MiniProyecto.BLL\obj\Debug\net7.0\MiniProyecto.BLL.AssemblyInfo.cs
+C:\Users\Juanjo\Desktop\Cajero\prueba\Miniproyecto\MiniProyecto.BLL\obj\Debug\net7.0\MiniProyecto.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Juanjo\Desktop\Cajero\prueba\Miniproyecto\MiniProyecto.BLL\obj\Debug\net7.0\MiniProyecto.BLL.csproj.CopyComplete
+C:\Users\Juanjo\Desktop\Cajero\prueba\Miniproyecto\MiniProyecto.BLL\obj\Debug\net7.0\MiniProyecto.BLL.dll
+C:\Users\Juanjo\Desktop\Cajero\prueba\Miniproyecto\MiniProyecto.BLL\obj\Debug\net7.0\refint\MiniProyecto.BLL.dll
+C:\Users\Juanjo\Desktop\Cajero\prueba\Miniproyecto\MiniProyecto.BLL\obj\Debug\net7.0\MiniProyecto.BLL.pdb
+C:\Users\Juanjo\Desktop\Cajero\prueba\Miniproyecto\MiniProyecto.BLL\obj\Debug\net7.0\ref\MiniProyecto.BLL.dll

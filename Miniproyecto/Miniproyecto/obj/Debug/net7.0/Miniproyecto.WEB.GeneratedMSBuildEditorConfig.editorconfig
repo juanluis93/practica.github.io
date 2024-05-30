@@ -1,0 +1,93 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MiniProyecto.Web
+build_property.RootNamespace = MiniProyecto.Web
+build_property.ProjectDir = C:\Users\Juanjo\Desktop\Cajero\prueba\Miniproyecto\Miniproyecto\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Juanjo\Desktop\Cajero\prueba\Miniproyecto\Miniproyecto
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Juanjo/Desktop/Cajero/prueba/Miniproyecto/Miniproyecto/Views/Genero/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Juanjo/Desktop/Cajero/prueba/Miniproyecto/Miniproyecto/Views/Genero/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJvXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Juanjo/Desktop/Cajero/prueba/Miniproyecto/Miniproyecto/Views/Genero/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJvXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Juanjo/Desktop/Cajero/prueba/Miniproyecto/Miniproyecto/Views/Genero/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Juanjo/Desktop/Cajero/prueba/Miniproyecto/Miniproyecto/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Juanjo/Desktop/Cajero/prueba/Miniproyecto/Miniproyecto/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Juanjo/Desktop/Cajero/prueba/Miniproyecto/Miniproyecto/Views/Productor/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9yXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Juanjo/Desktop/Cajero/prueba/Miniproyecto/Miniproyecto/Views/Productor/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9yXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Juanjo/Desktop/Cajero/prueba/Miniproyecto/Miniproyecto/Views/Productor/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9yXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Juanjo/Desktop/Cajero/prueba/Miniproyecto/Miniproyecto/Views/Productor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9yXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Juanjo/Desktop/Cajero/prueba/Miniproyecto/Miniproyecto/Views/Series/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VyaWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Juanjo/Desktop/Cajero/prueba/Miniproyecto/Miniproyecto/Views/Series/Create2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VyaWVzXENyZWF0ZTIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Juanjo/Desktop/Cajero/prueba/Miniproyecto/Miniproyecto/Views/Series/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VyaWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Juanjo/Desktop/Cajero/prueba/Miniproyecto/Miniproyecto/Views/Series/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VyaWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Juanjo/Desktop/Cajero/prueba/Miniproyecto/Miniproyecto/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Juanjo/Desktop/Cajero/prueba/Miniproyecto/Miniproyecto/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Juanjo/Desktop/Cajero/prueba/Miniproyecto/Miniproyecto/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Juanjo/Desktop/Cajero/prueba/Miniproyecto/Miniproyecto/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Juanjo/Desktop/Cajero/prueba/Miniproyecto/Miniproyecto/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-lofig1vx1e

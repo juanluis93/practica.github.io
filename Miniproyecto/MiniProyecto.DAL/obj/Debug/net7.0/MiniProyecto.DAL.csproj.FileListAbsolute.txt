@@ -1,0 +1,12 @@
+C:\Users\Juanjo\Desktop\Cajero\prueba\Miniproyecto\MiniProyecto.DAL\bin\Debug\net7.0\MiniProyecto.DAL.deps.json
+C:\Users\Juanjo\Desktop\Cajero\prueba\Miniproyecto\MiniProyecto.DAL\bin\Debug\net7.0\MiniProyecto.DAL.dll
+C:\Users\Juanjo\Desktop\Cajero\prueba\Miniproyecto\MiniProyecto.DAL\bin\Debug\net7.0\MiniProyecto.DAL.pdb
+C:\Users\Juanjo\Desktop\Cajero\prueba\Miniproyecto\MiniProyecto.DAL\obj\Debug\net7.0\MiniProyecto.DAL.csproj.AssemblyReference.cache
+C:\Users\Juanjo\Desktop\Cajero\prueba\Miniproyecto\MiniProyecto.DAL\obj\Debug\net7.0\MiniProyecto.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juanjo\Desktop\Cajero\prueba\Miniproyecto\MiniProyecto.DAL\obj\Debug\net7.0\MiniProyecto.DAL.AssemblyInfoInputs.cache
+C:\Users\Juanjo\Desktop\Cajero\prueba\Miniproyecto\MiniProyecto.DAL\obj\Debug\net7.0\MiniProyecto.DAL.AssemblyInfo.cs
+C:\Users\Juanjo\Desktop\Cajero\prueba\Miniproyecto\MiniProyecto.DAL\obj\Debug\net7.0\MiniProyecto.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Juanjo\Desktop\Cajero\prueba\Miniproyecto\MiniProyecto.DAL\obj\Debug\net7.0\MiniProyecto.DAL.dll
+C:\Users\Juanjo\Desktop\Cajero\prueba\Miniproyecto\MiniProyecto.DAL\obj\Debug\net7.0\refint\MiniProyecto.DAL.dll
+C:\Users\Juanjo\Desktop\Cajero\prueba\Miniproyecto\MiniProyecto.DAL\obj\Debug\net7.0\MiniProyecto.DAL.pdb
+C:\Users\Juanjo\Desktop\Cajero\prueba\Miniproyecto\MiniProyecto.DAL\obj\Debug\net7.0\ref\MiniProyecto.DAL.dll
